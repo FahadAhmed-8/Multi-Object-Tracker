@@ -215,14 +215,6 @@ Annotated Video + Screenshots + Analytics
 
 ---
 
-## Note on AI Tool Usage
-
-This project was developed using Claude AI as a development partner. Claude assisted with code generation, debugging, architecture design, and documentation. All design decisions, configuration choices, and testing were done by the author. The use of AI tools in software development is an industry-standard practice and itself a key skill for modern engineers.
-
----
-
 ## Author
 
 **Fahad Ahmed**
-Assessment for: Software & AI Developer Intern
-Company: Predusk Technology Pvt. Ltd. (ProcessVenue), Jaipur
