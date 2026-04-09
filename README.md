@@ -1,5 +1,4 @@
 # Multi-Object Detection & Persistent ID Tracking
-### Assessment Submission — Predusk Technology Pvt. Ltd. (ProcessVenue)
 
 ---
 
